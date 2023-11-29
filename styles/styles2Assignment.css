@@ -1,0 +1,19 @@
+.myBtn {
+  background-color: aqua;
+}
+#styledBtn {
+  font-style: italic;
+}
+#firstBtn {
+  background-color: rgb(159, 253, 165);
+  padding: 5px;
+  color: green;
+  border: none;
+  border-radius: 12px;
+}
+#secondBtn {
+  background-color: rgb(219, 219, 219);
+  border: 2px solid black;
+  text-transform: uppercase;
+  border-radius: 8px;
+}
